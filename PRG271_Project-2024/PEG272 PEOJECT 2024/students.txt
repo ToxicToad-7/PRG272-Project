@@ -1,0 +1,4 @@
+101,John Doe,20,Computer Science
+102,Jane Smith,22,Engineering
+103,Mike Brown,21,Mathematics
+104,Sarah Lee,19,Biology

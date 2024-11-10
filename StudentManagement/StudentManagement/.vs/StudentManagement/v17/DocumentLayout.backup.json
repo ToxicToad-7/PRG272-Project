@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\summaryreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:summaryreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\summaryreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:summaryreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\viewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:viewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\viewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:viewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\summaryreportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:summaryreportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\addstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:addstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|c:\\users\\boitumelo.desktop-7ujf0ej\\source\\repos\\studentmanagement\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB5F39E-C7B8-4249-960A-92E1CFE516B1}|StudentManagement.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:49:57.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:54:48.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\UpdateStudentForm.cs",
+              "RelativeDocumentMoniker": "UpdateStudentForm.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\UpdateStudentForm.cs",
+              "RelativeToolTip": "UpdateStudentForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:12:41.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SummaryReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\SummaryReportForm.cs",
+              "RelativeDocumentMoniker": "SummaryReportForm.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\SummaryReportForm.cs [Design]",
+              "RelativeToolTip": "SummaryReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:30:45.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:47:40.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateStudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\UpdateStudentForm.cs",
+              "RelativeDocumentMoniker": "UpdateStudentForm.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\UpdateStudentForm.cs [Design]",
+              "RelativeToolTip": "UpdateStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:31:29.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SummaryReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\SummaryReportForm.cs",
+              "RelativeDocumentMoniker": "SummaryReportForm.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\SummaryReportForm.cs",
+              "RelativeToolTip": "SummaryReportForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:38:11.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewStudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\ViewStudentsForm.cs",
+              "RelativeDocumentMoniker": "ViewStudentsForm.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\ViewStudentsForm.cs [Design]",
+              "RelativeToolTip": "ViewStudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:32:15.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:57:54.097Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewStudentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\ViewStudentsForm.cs",
+              "RelativeDocumentMoniker": "ViewStudentsForm.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\ViewStudentsForm.cs",
+              "RelativeToolTip": "ViewStudentsForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:02:56.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SummaryReportForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\SummaryReportForm.Designer.cs",
+              "RelativeDocumentMoniker": "SummaryReportForm.Designer.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\SummaryReportForm.Designer.cs",
+              "RelativeToolTip": "SummaryReportForm.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:39:40.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddStudentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\AddStudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "AddStudentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\AddStudentForm.Designer.cs",
+              "RelativeToolTip": "AddStudentForm.Designer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:52:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddStudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\AddStudentForm.cs [Design]",
+              "RelativeToolTip": "AddStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:35:41.525Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:54:07.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\boitumelo.DESKTOP-7UJF0EJ\\source\\repos\\StudentManagement\\AddStudentForm.cs",
+              "RelativeToolTip": "AddStudentForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAEwD0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:38:53.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
